@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0EB0-65CF
+
+ Directory of C:\Users\sagar\Desktop\my project
+
+20-07-2021  12:32    <DIR>          .
+20-07-2021  12:32    <DIR>          ..
+20-07-2021  12:32                 0 ind.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  109,017,595,904 bytes free
